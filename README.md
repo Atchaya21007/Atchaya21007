@@ -51,18 +51,6 @@ A curated collection of 10 production-ready data science and AI applications spa
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atchaya21007&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atchaya21007&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📬 Connect with Me
 
 - **GitHub:** [Atchaya21007](https://github.com/Atchaya21007)
